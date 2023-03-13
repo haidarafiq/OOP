@@ -1,0 +1,59 @@
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.exe
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.deps.json
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.runtimeconfig.json
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\ref\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.pdb
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Web.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Web.xml
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.AssemblyReference.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan_OOP.Form1.resources
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.GenerateResource.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.AssemblyInfoInputs.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.AssemblyInfo.cs
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.CoreCompileInputs.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.CopyComplete
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\ref\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.pdb
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.genruntimeconfig.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan_OOP.Properties.Resources.resources
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.exe
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.deps.json
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.runtimeconfig.json
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\ref\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Latihan OOP.pdb
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Web.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\bin\Debug\net6.0-windows\MySql.Web.xml
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan_OOP.Form1.resources
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan_OOP.Properties.Resources.resources
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.GenerateResource.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.AssemblyInfoInputs.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.AssemblyInfo.cs
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.CoreCompileInputs.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.CopyComplete
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\ref\Latihan OOP.dll
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.pdb
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.genruntimeconfig.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan OOP.csproj.AssemblyReference.cache
+D:\FILE AFIQ\KELAS XII\SEMESTER II\BOOTCAMP\Pemrograman 2 & OOP\Latihan OOP\Latihan OOP\obj\Debug\net6.0-windows\Latihan_OOP.Login.resources
